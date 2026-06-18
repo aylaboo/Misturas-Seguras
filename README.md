@@ -1,5 +1,13 @@
 # 🧪 Misturas Seguras
 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge"/>
+</p>
+
 Um simulador interativo e responsivo desenvolvido para conscientização sobre acidentes domésticos envolvendo a mistura inadequada de produtos de limpeza e substâncias do dia a dia. O sistema analisa a compatibilidade química entre dois insumos selecionados e alerta instantaneamente sobre reações perigosas, liberação de gases tóxicos ou riscos de inflamabilidade.
 
 ---
